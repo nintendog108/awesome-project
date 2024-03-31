@@ -1,3 +1,9 @@
 [submodule "vendor/awesome-modul"]
 	path = vendor/awesome-modul
 	url = https://github.com/nintendog108/awesome-modul.git
+[submodule "vendor2/awesome-modul"]
+	path = vendor2/awesome-modul
+	url = https://github.com/nintendog108/awesome-modul.git
+[submodule "awesome-project"]
+	path = awesome-project
+	url = https://github.com/nintendog108/awesome-project.git
